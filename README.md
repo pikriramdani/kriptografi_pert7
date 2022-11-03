@@ -4,6 +4,8 @@
 | NIM | 312010162 |
 | Kelas | TI.20.A.1 |
 
+##Program
+
 ```python
 import math;
 #Import math module to use the math.gcd() command
@@ -161,3 +163,5 @@ main();
 #test = input("Here: ");
 #Test if it prints out Exit at end. If it is run normally, it will not, only in shell.
 ```
+
+##output
