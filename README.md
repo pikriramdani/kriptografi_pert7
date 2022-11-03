@@ -164,4 +164,5 @@ main();
 #Test if it prints out Exit at end. If it is run normally, it will not, only in shell.
 ```
 
-# output
+## output
+![output](gambar/output.PNG)
